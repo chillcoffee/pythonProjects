@@ -1,9 +1,9 @@
 import requests
 from datetime import datetime
 
-USERNAME = "ruffa"
-TOKEN = "JALKJNCLZMLKAJFOUERA20156348"
-GRAPH_ID = "graph1"
+USERNAME = "YOUR USERNAME" #PWEDE YOUR NAME IF UNIQUE LIKE MINE
+TOKEN = "YOUR TOKEN" #RANDOM STRING
+GRAPH_ID = "graph1" #RANDOM GRAPH NAME
 
 pixela_endpoint = "https://pixe.la/v1/users"
 
